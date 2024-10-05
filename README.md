@@ -9,6 +9,6 @@ One key principle to keep in mind is that for any new analytic skill you're lear
 
 ## Step 1: Conceptualize the dataset
 
-<img width="1062" alt="Screenshot 2024-10-05 at 13 07 59" src="https://github.com/user-attachments/assets/9af34b36-b8b6-4c49-a993-077c363e4c11">
+- **Identify grain, measure, and dimensions**:
 
 <img width="772" alt="Screenshot 2024-10-05 at 13 08 39" src="https://github.com/user-attachments/assets/a3d1e434-a5dc-481f-8a4f-5663fe5332af">
