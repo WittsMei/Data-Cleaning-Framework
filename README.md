@@ -50,6 +50,36 @@ The most important thing is not to find every signle issue and end up with a per
 
 
 
+## Step 3: Evaluate unsolvable challenges
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
