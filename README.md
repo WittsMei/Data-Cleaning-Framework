@@ -104,14 +104,22 @@ I augmented the dataset by adding in the time to deliver, the time to ship, and 
 
 
 
+## Step 5: Note and document
+
+- **Create a changelog**: document the issues you found, the magnitude and the severity, as well as whether or not it was resolved.  
+
+<img width="671" alt="Screenshot 2024-10-05 at 15 04 37" src="https://github.com/user-attachments/assets/544ac8df-a023-47a7-8d1d-f35ab4e55f78">
+
+<img width="557" alt="Screenshot 2024-10-05 at 15 07 39" src="https://github.com/user-attachments/assets/559ea8c9-aa85-40e7-a77b-078bef080493">
+
+<img width="377" alt="Screenshot 2024-10-05 at 15 08 11" src="https://github.com/user-attachments/assets/5509483d-40ac-421a-9544-65cdb170b56d">
 
 
 
+## Cleaning framwork
 
 
-
-
-
+<img width="773" alt="Screenshot 2024-10-05 at 15 09 27" src="https://github.com/user-attachments/assets/3f765e8a-c428-4203-84d4-15d4d40b053b">
 
 
 
