@@ -33,14 +33,11 @@ This dataset represents sales data, where every single record represents a trans
 
 ## Step 2: Locate solvable issues
 
-- **Formatting**
-currency, date, and number formats
+- **Formatting**: currency, date, and number formats
 
-- **Consistency**
-Spelling, spacing differences, categorization consistency
+- **Consistency**: spelling, spacing differences, categorization consistency
 
-- **Duplicates**
-erroneously repeated
+- **Duplicates**: erroneously repeated
 
 
 
