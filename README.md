@@ -97,20 +97,9 @@ About 10% of delivery timestamps were missing, and also 5% of the currency infor
 
 - Add supplementary information from another source
 
+At the end of the step, you should be able to say something like:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+I augmented the dataset by adding in the time to deliver, the time to ship, and the time to refund, as well as regional informatin so that we could better segment the sales and refunds and also understand the data at another geographic dimension.
 
 
 
