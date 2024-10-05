@@ -21,3 +21,5 @@ One key principle to keep in mind is that for any new analytic skill you're lear
 
 - **Understand column definitions**
 <img width="768" alt="Screenshot 2024-10-05 at 13 16 57" src="https://github.com/user-attachments/assets/dda8ac32-84a7-498b-994a-44427a426489">
+
+- **Spend 30 mins to an hour to understand the dataset**
