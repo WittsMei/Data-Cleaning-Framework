@@ -23,9 +23,9 @@ One key principle to keep in mind is that for any new analytic skill you're lear
 <img width="768" alt="Screenshot 2024-10-05 at 13 16 57" src="https://github.com/user-attachments/assets/dda8ac32-84a7-498b-994a-44427a426489">
 
 
-- **Spend 30 mins to an hour to understand the dataset**
 
-By the end of the step, you should be able to say something like:
+
+It is recommended that you spend 30 mins to an hour understanding the dataset. By the end of the step, you should be able to say something like:
 
 This dataset represents sales data, where every single record represents a transaction. The most important columns are the sales columns and the data columns. And there's also supplementary information about the product, customer demographics and marketing information. The data spans from 2019 to 2024.
 
