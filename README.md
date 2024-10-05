@@ -40,6 +40,9 @@ This dataset represents sales data, where every single record represents a trans
 - **Duplicates**: erroneously repeated
 
 
+How to find those isseus?
+
+<img width="777" alt="Screenshot 2024-10-05 at 13 49 16" src="https://github.com/user-attachments/assets/94e85a39-755c-41c2-a2b1-510fbb15aa5b">
 
 
 
