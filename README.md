@@ -82,11 +82,20 @@ You need to exercise a little bit of judgement in combination with your own doma
 <img width="700" alt="Screenshot 2024-10-05 at 14 32 13" src="https://github.com/user-attachments/assets/581b278e-2cf9-49f8-897a-49bf32e883ae">
 
 
+
+
 At the end of the step, you should be able to say something like:
 
 About 10% of delivery timestamps were missing, and also 5% of the currency information was missing. However, there are not critical to this analysis, so they were left as is. For the 3% of refund dates that showed up as being before the sales day, they were actually excluded from the analysis, so as to not bias the data. 
 
 
+
+
+## Step 4: Augmentation
+
+- Create additional columns through calculations
+
+- Add supplementary information from another source
 
 
 
