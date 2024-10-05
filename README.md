@@ -44,11 +44,9 @@ How to find those isseus?
 
 <img width="777" alt="Screenshot 2024-10-05 at 13 49 16" src="https://github.com/user-attachments/assets/94e85a39-755c-41c2-a2b1-510fbb15aa5b">
 
+When it is acturally good enough?
 
-
-
-
-
+The most important thing is not to find every signle issue and end up with a perfect dataset. You just need to prioritize the columns that you identify as critical columns at first to make them useable, and then move forward with the analysis and start diving into the insights. Make sure you always have a raw version dataset so that you can always circle back to this process and clean the data even more if you need to.
 
 
 
