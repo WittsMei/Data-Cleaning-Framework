@@ -31,9 +31,7 @@ This dataset represents sales data, where every single record represents a trans
 
 
 
-
-
-
+## Locate solvable issues
 
 
 
