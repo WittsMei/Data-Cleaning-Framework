@@ -44,6 +44,8 @@ How to find those isseus?
 
 <img width="777" alt="Screenshot 2024-10-05 at 13 49 16" src="https://github.com/user-attachments/assets/94e85a39-755c-41c2-a2b1-510fbb15aa5b">
 
+
+
 When it is acturally good enough?
 
 The most important thing is not to find every signle issue and end up with a perfect dataset. You just need to prioritize the columns that you identify as critical columns at first to make them useable, and then move forward with the analysis and start diving into the insights. Make sure you always have a raw version dataset so that you can always circle back to this process and clean the data even more if you need to.
@@ -78,6 +80,41 @@ You can leave as it is and then caveat it later in your analysis.
 You need to exercise a little bit of judgement in combination with your own domain knowledge and your understanding of what's feasible for this analysis. 
 
 <img width="700" alt="Screenshot 2024-10-05 at 14 32 13" src="https://github.com/user-attachments/assets/581b278e-2cf9-49f8-897a-49bf32e883ae">
+
+
+At the end of the step, you should be able to say something like:
+
+About 10% of delivery timestamps were missing, and also 5% of the currency information was missing. However, there are not critical to this analysis, so they were left as is. For the 3% of refund dates that showed up as being before the sales day, they were actually excluded from the analysis, so as to not bias the data. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
