@@ -12,4 +12,5 @@ One key principle to keep in mind is that for any new analytic skill you're lear
 - **Identify grain, measure, and dimensions**
 
 
-<img width="742" alt="Screenshot 2024-10-05 at 13 11 40" src="https://github.com/user-attachments/assets/e9542a47-ff44-4da1-86a1-d41975f977e5">
+
+<img width="774" alt="Screenshot 2024-10-05 at 13 12 18" src="https://github.com/user-attachments/assets/21df1f41-91fc-422f-bff7-601fe60a6989">
