@@ -52,18 +52,25 @@ The most important thing is not to find every signle issue and end up with a per
 
 ## Step 3: Evaluate unsolvable challenges
 
-Two types of data: missing data, nonsensical data
+Two types of data: missing data, nonsensical data (eg: sale date after refund date, non-existent country code)
+
+- **Calculate the magnitude (% impacted) of the issue
+
+<img width="646" alt="Screenshot 2024-10-05 at 14 24 57" src="https://github.com/user-attachments/assets/b9bf9ac2-55b5-407b-8f44-5aec50b8b08a">
+
+The dataset is not usable. You need to find another source.
+
+
+<img width="758" alt="Screenshot 2024-10-05 at 14 25 37" src="https://github.com/user-attachments/assets/69cc8944-fdb8-4fa6-a760-fea7d87fda97">
+You can leave as it is and then caveat it later in your analysis. 
+
+<img width="741" alt="Screenshot 2024-10-05 at 14 27 32" src="https://github.com/user-attachments/assets/1650531a-bb96-4ca4-b4cc-d624fe1d8ec9">
+
+You need to exercise a little bit of judgement in combination with your own domain knowledge and your understanding of what's feasible for this analysis. 
 
 
 
-
-
-
-
-
-
-
-
+<img width="735" alt="Screenshot 2024-10-05 at 14 30 18" src="https://github.com/user-attachments/assets/3455aee5-473d-4b51-bd78-0b6fe8f8b957">
 
 
 
