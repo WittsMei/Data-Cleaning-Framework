@@ -54,7 +54,7 @@ The most important thing is not to find every signle issue and end up with a per
 
 Two types of data: missing data, nonsensical data (eg: sale date after refund date, non-existent country code)
 
-- **Calculate the magnitude (% impacted) of the issue
+- **Calculate the magnitude (% impacted) of the issue**
 
 
 <img width="646" alt="Screenshot 2024-10-05 at 14 24 57" src="https://github.com/user-attachments/assets/b9bf9ac2-55b5-407b-8f44-5aec50b8b08a">
