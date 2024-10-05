@@ -77,23 +77,7 @@ You can leave as it is and then caveat it later in your analysis.
 
 You need to exercise a little bit of judgement in combination with your own domain knowledge and your understanding of what's feasible for this analysis. 
 
-
-
-<img width="735" alt="Screenshot 2024-10-05 at 14 30 18" src="https://github.com/user-attachments/assets/3455aee5-473d-4b51-bd78-0b6fe8f8b957">
-
-
-
-
-<img width="64" alt="Screenshot 2024-10-05 at 14 30 06" src="https://github.com/user-attachments/assets/476cf5c1-66e0-49f2-9885-aaa3d11c1903">
-
-
-
-
-
-
-
-
-
+<img width="700" alt="Screenshot 2024-10-05 at 14 32 13" src="https://github.com/user-attachments/assets/581b278e-2cf9-49f8-897a-49bf32e883ae">
 
 
 
